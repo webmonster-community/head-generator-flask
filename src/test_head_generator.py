@@ -1,4 +1,4 @@
-def test_get_canonical_link():
+def test_get_canonical_link() -> object:
     assert False
 
 
