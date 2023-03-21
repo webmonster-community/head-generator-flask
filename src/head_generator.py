@@ -127,7 +127,7 @@ class head_generator:
         self.script_urls.append(url)
         return self
 
-    def add_meta(self, name: str, content: str) -> 'HeadGenerator':
+    def add_meta(self, name: str, content: str) -> 'head_generator':
         self.metatags.append({'name': name, 'content': content})
         return self
 
