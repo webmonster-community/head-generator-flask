@@ -1,0 +1,23 @@
+{
+  "name": "webmonster-community/head-generator-flask",
+  "description": "Class for best seo head",
+  "keywords": [
+    "seo",
+    "head",
+    "generator"
+  ],
+  "homepage": "https://webmonster.tech/",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "webmonster",
+      "email": "hello@webmonster.tech",
+      "homepage": "https://github.com/webmonster-community/"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "python": ">=3.10.0"
+  }
+}
