@@ -3,9 +3,9 @@
 # Head Generator (Python/Flask)
 Python/Flask class that generates an optimized &lt;head> tag for search engine optimization (SEO)
 
-[![Latest Stable Version](http://poser.pugx.org/webmonster-community/webmonster-community/head-generator-flask/v)](https://packagist.org/packages/webmonster-community/head-generator-flask)
-[![Total Downloads](http://poser.pugx.org/webmonster-community/webmonster-community/head-generator-flask/downloads)](https://packagist.org/packages/webmonster-community/head-generator-flask)
-[![License](http://poser.pugx.org/webmonster-community/webmonster-community/head-generator-flask/license)](https://packagist.org/packages/webmonster-community/head-generator-flask)
+[![Latest Stable Version](http://poser.pugx.org/webmonster-community/head-generator-flask/v)](https://packagist.org/packages/webmonster-community/head-generator-flask)
+[![Total Downloads](http://poser.pugx.org/webmonster-community/head-generator-flask/downloads)](https://packagist.org/packages/webmonster-community/head-generator-flask)
+[![License](http://poser.pugx.org/webmonster-community/head-generator-flask/license)](https://packagist.org/packages/webmonster-community/head-generator-flask)
 
 ## Requirements
 
