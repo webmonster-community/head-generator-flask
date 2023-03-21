@@ -3,6 +3,7 @@ from typing import Optional
 
 class head_generator:
     def __init__(self) -> object:
+        self._SERVER = None
         self.language = 'en'
         self.viewport = 'width=device-width, initial-scale=1'
         self.title = ''
