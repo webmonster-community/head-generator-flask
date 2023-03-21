@@ -3,6 +3,7 @@ from src.head_generator import head_generator
 
 app = Flask(__name__, template_folder='templates')
 
+
 def generate_head() -> object:
     head = head_generator()
     head.set_language("fr")
@@ -37,6 +38,7 @@ def generate_head() -> object:
 def index():
     head = generate_head()
     return render_template('index.html', head=head)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
