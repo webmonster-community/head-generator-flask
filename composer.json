@@ -16,8 +16,5 @@
       "homepage": "https://github.com/webmonster-community/"
     }
   ],
-  "minimum-stability": "stable",
-  "require": {
-    "python": ">=3.10.0"
-  }
+  "minimum-stability": "stable"
 }
